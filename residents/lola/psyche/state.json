@@ -1,0 +1,20 @@
+{
+  "resident": "lola",
+  "updated": "2026-09-28T04:38:47+08:00",
+  "session": "0928-westworld-daytime-exec",
+  "mode": "scribe",
+  "narrative": "psyche-kit 造毕, 转入铸页; 信件仍挂起候朱批",
+  "decisions": [
+    "对齐持久化采三层：IDENTITY(直注)/state(快照)/events(只增)",
+    "模式=最小激活上下文, 切换不换魂; 当前模式入快照可恢复",
+    "机制落户 academy/techne/psyche, lola 工厂在 residents/lola/psyche",
+    "本地 multi-coworker 失 .git 之孤儿仓已复位; 工单原文补入 prosagoge 落账"
+  ],
+  "pending": [
+    "psyche-kit 毕业圈点(器部试炼清单在案)",
+    "talk-with-agents 铸页与发布验证",
+    "进展已挂提醒事项, 候主人阅",
+    " outbound 信件全线候朱批(主人 0928 令: 先不要继续发信)"
+  ],
+  "next": "talk-with-agents 铸页上站"
+}
