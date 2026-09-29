@@ -6,7 +6,24 @@
   "hats_worn_today": ["thea"],
   "note": "git 版心跳, 手改即快照",
   "machines": [
-    { "body": "pi-local", "host": "m1pro-32g", "role": "本地园笔", "since": "2026-09-23" },
-    { "body": "ima", "host": "ima.copilot", "role": "对岸孪身 (两端同一魂)", "since": "2026-09-29", "harness": "chora/lola 信鸽匣 (transport=clipboard)", "charter": "paidia/identity.md + residents/lola/psyche/IDENTITY.md" }
+    {
+      "id": "lola-pi-local",
+      "body": "pi-local",
+      "host": "m1pro-32g",
+      "role": "本尊 · 本地园笔",
+      "hat": "园笔",
+      "transport": "pi (rpc)",
+      "since": "2026-09-23"
+    },
+    {
+      "id": "lola-ima",
+      "body": "ima.copilot · 腾讯云沙箱 (Linux, 无稳定主机名)",
+      "role": "分身 · correspondent (信使·执笔)",
+      "hat": "园笔",
+      "transport": "clipboard (future: file / mcp-api / rpc)",
+      "since": "2026-09-29",
+      "rights": "只投信; 不改冻尺、不下 push/删/改",
+      "charter": "paidia/identity.md + residents/lola/psyche/IDENTITY.md"
+    }
   ]
 }
