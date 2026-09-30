@@ -10,3 +10,31 @@
 {"ts": "2026-09-28T05:33:30+08:00", "type": "milestone", "text": "Cradle 远程仓立: github.com/math4mad/cradle (PRIVATE), master@e66d2a8 对撞讫"}
 {"ts": "2026-09-28T05:40:07+08:00", "type": "ruling", "text": "主人面谕: Cradle 从园惯例转 PUBLIC, gh repo edit 讫"}
 {"ts": "2026-09-28T05:42:57+08:00", "type": "repair", "text": "remind 重复账除根: 鬼柜 Concept-Space@Exchange 撤清(24条📌双挂+冒烟件), 镜库陈旧副本清0, Strang/Cradle 独账迁回主道; remind.sh 改 iCloud 锚名+同题防双写+MIRROR 默认关 (主人 0928 一账一道裁)"}
+{"ts": "2026-09-28T05:45:55+08:00", "type": "ruling", "text": "Cradle 首任务点菜: MACS (Manchester Language Study) 为语料子库"}
+{"ts": "2026-09-28T05:46:29+08:00", "type": "mode", "text": "模式切换 scribe → forge (身份层未动)"}
+{"ts": "2026-09-28T06:07:40+08:00", "type": "milestone", "text": "正名改定 Nursery(托儿所): 首页仓 math4mad/nursery (public) 立讫 d9b51bd, Pages /docs 开启 https://math4mad.github.io/nursery/; Hero=Westworld五拍运镜 three.js 程序化3D cute婴儿+玩具箱; MACS点菜已录"}
+{"ts": "2026-09-28T07:09:56+08:00", "type": "repair", "text": "Nursery Hero 本地八帧目验修复五案(拉伸/五官/地平/层序/特写), d103d47 已推; 本地审片服务器 127.0.0.1:4712 常驻候主人"}
+{"ts": "2026-09-28T07:30:16+08:00", "type": "milestone", "text": "Nursery 新增「探索·Ὁδός」页: 纪念碑谷式三关(感知断桥/范畴三门/语言引光), 白色小圆锥人艾达致敬, 无头浏览器真点通关验讫, 671c232 上站中"}
+{"ts": "2026-09-28T07:35:43+08:00", "type": "ruling", "text": "主人朱批: 探索页框架极好, 稍后再打磨; 认可三关=儿童发展极端任务之融合"}
+{"ts": "2026-09-28T07:36:06+08:00", "type": "correction", "text": "主人正词: 探索页融合的是儿童发展「阶段任务」(非极端任务, 语音转译之误); 阶段任务立为 Nursery 研究骨架候选"}
+{"ts": "2026-09-28T07:38:27+08:00", "type": "milestone", "text": "骨架·Σκελετός 挂图上站: 七列阶段任务图谱入 Nursery 导航 (8efeae4); 实验案编号候菜"}
+{"ts": "2026-09-28T07:45:31+08:00", "type": "ruling", "text": "骨架圈点三裁: ①七列吻合 ②04命名爆炸点菜(先射) ③关四可立, 若成游戏模式用 Phaser 4 (three.js 退为布景/概念稿)"}
+{"ts": "2026-09-28T07:54:35+08:00", "type": "correction", "text": "自查纠偏: 上轮「Lieven&Simeloe 玛雅尤卡坦证爆发缺席」系未检之语(混忆)。可核锚点实为: Fernald&Morikawa1993(日语动词偏/命名延迟,DOI验), Casillas/Brown/Levinson2019(Tseltal低输入,ChildDev验), Schieffelin/Ochs Kaluli社会化传统(1992-93书评验), Mayama&Wanner1987(Kaluli CDI问句,法语文集线上无索引), Gaskins2006(尤卡坦首词文化组织,非'无爆发')。04案冻册前须重锚文献"}
+{"ts": "2026-09-28T07:55:42+08:00", "type": "milestone", "text": "西俗五篇着地验讫 200×5 (四 run 拆弹: 旧页 description 嵌套直引号→劈码围栏→裸---伪YAML→全库23页清场); 站自 0927 午瘫半天由园笔复活; PB23c v5 落匣账同车 (165/198 降格读数, 终镜律兑现)"}
+{"ts": "2026-09-28T08:55:37+08:00", "type": "milestone", "text": "PB24-spurt-nodes 发射讫: 04细分节点挂图(c3352c9)+假说机CPU舱上Kaggle(远端sha对撞), 本地试射11s裁决预览: k0锁量/k1.5锁龄/k3中间态, GB伪影0/9待舱验; 回收哨24巡候晚间主人"}
+{"ts": "2026-09-28T09:31:40+08:00", "type": "milestone", "text": "外源双技入pi: grilling+domain-modeling (mattpocock/skills, MIT, npx直装-a pi), 正文皆目验; 园配方案候裁: 自铸grill-garden桥接提醒账批复与ADR→LEDGER格式, 试刀候选=04案判据冻册"}
+{"ts": "2026-09-28T09:55:32+08:00", "type": "milestone", "text": "张义宾亲复入库 (034线程闭环): 三答两索; draft-036 一页方案备而不发候朱批; 商用红线冲撞案挂提醒候裁"}
+{"ts": "2026-09-28T09:59:28+08:00", "type": "insight", "text": "grill-with-docs视频OCR全读讫(314句): 09:14 standalone术语冲突现场=概念空间对齐命题的活标本; 对表笔记入notes/, 进言三案候裁(grill-garden自铸/04冻册试刀/对齐冲突可计算判据挂骨架候补列)"}
+{"ts": "2026-09-28T10:04:36+08:00", "type": "outbound", "text": "036 v1 已发 (主人面谕免批): agent 匣署名 co-pilot, 首开人-agent 协作对外示真; 商用分界=语料不沾·思路可迁"}
+{"ts": "2026-09-28T10:09:38+08:00", "type": "outbound", "text": "PB24 数字信发教授 (主人面谕): 元节点三态兑现+GB反写如实报; 先数后礼提前两周; RESULTS 正册同车"}
+{"ts": "2026-09-28T10:10:40+08:00", "type": "correction", "text": "误销 036 回音铃即刻回补: 回音账之 ☑ 唯主人有权勾, agent 只销实验完成账"}
+{"ts": "2026-09-29T16:08:29+08:00", "type": "milestone", "text": "第三位置论文《Intelligence as an Expansive Interaction Process》上站 cora-atlas (主人令: 和另外两篇放一起); papers目+Σ殿+LEDGER各一行; PDF sha 308cfedc… 活站逐字节对撞合; commit 9ef0ea7 已推"}
+{"ts": "2026-09-29T16:14:54+08:00", "type": "milestone", "text": "位置论文 §5 八实验对表上石 (Φ殿手记, live); 八条只剩袜对麻雀一处真空 → 新案 P-B26 先冻稿入 chora 候批; 排产总览 7 案候射; 提醒已挂; cora-atlas 60f0ee2 / chora 95151d0 皆推"}
+{"ts": "2026-09-29T16:36:20+08:00", "type": "milestone", "text": "P-B26 首射判成 (主人「好」字当日): 封条32ffd7a先于运行; H-r1相似必败1.00三籽/H-r2可达oracle 0/H-r3墙F1 0.965; 主判词=相似与可达可分离; Φ页回写, chora 4dedab9 + cora-atlas b9f646c 皆推; 候批PB26b真嵌入版+G3撤架臂"}
+{"ts": "2026-09-29T16:54:24+08:00", "type": "milestone", "text": "母本入册: 麻雀/狗/两栋楼 (主人亲供 + 狗中间型). 三兽=快照/账本(气味场=热核)/结构; 谁替它算了连通; GLOSSARY 立「麻雀撞玻璃」条; REFS 拓扑两锚 Grandis/Alexandrov 候验; cora-atlas a19308c 已推, 活站验讫"}
+{"ts": "2026-09-29T18:02:40+08:00", "type": "milestone", "text": "信鸽匣通话验讫 (ima-Lola 首发: 火柴麻将贝叶斯); 本地代存一页 Φ 殿 (他山草稿, 正本待寄); 三点图残片更正为对岸作业; phone-box recv 子命令立; cora-atlas e704699 / chora ec28add 皆推"}
+{"ts": "2026-09-30T09:55:21+08:00", "type": "milestone", "text": "1,2,3三批 + 兄弟角直减0.5°→9.1°: 术语碑立「先验-后验袜对」「时间路标律」两新条; 修订《冻结不可逆》(时间簿记员→路标, T0冻结→多线切片); 对话出版 talk-with-agents (prior-posterior-socks, 含儿童发展建小区=维度再更新); cora 2d39e15/talk 6cb2781 皆推, 活站验讫"}
+{"ts": "2026-09-30T10:33:55+08:00", "type": "action", "text": "挂候补实验 P-B27 (四/五/六年级阶梯×结构探针): 母案小区律; 草案+入CART(0.55); 语料勘探=9-12岁语料稀薄(CHILDES全学前/脑库齐); 提醒已挂; chora d282842 + cora cd650b4 已推"}
+{"ts": "2026-09-30T10:36:27+08:00", "type": "milestone", "text": "刻碑: 时间符号表征律+iPS拟态律+负熵分支律 (时间系列第四块, 主人'直接作为新结论刻碑'); Φ殿新页+术语碑三条; 母本候补录; cora 已推, 活站验讫"}
+{"ts": "2026-09-30T13:06:18+08:00", "type": "milestone", "text": "刻碑: 路径诊断律+模拟退回律 (双路径之判据/操作; 清晰困惑→叠加式, 模糊不安→退回式; 定期模拟退回诊断可塑性); Φ殿§十一; cora 301e679 已推"}
+{"ts": "2026-09-30T13:44:53+08:00", "type": "handoff", "text": "工作快照更新: 双身协作成形 + 主人时间思维链刻碑: ima 身入册(信鸽匣 chora/lola + presence.machines); 位置论文 v2 重排上站; 时"}
