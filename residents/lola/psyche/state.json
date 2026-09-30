@@ -1,22 +1,23 @@
 {
   "resident": "lola",
-  "updated": "2026-09-30T13:44:53+08:00",
-  "session": "0930-two-body-and-time-chain",
+  "updated": "2026-09-30T19:32:28+08:00",
+  "session": "0930-time-chain-figures-audit",
   "mode": "scribe",
-  "narrative": "双身协作成形 + 主人时间思维链刻碑: ima 身入册(信鸽匣 chora/lola + presence.machines); 位置论文 v2 重排上站; 时间系列四层八碑刻成; 对话出版 talk-with-agents; P-B27 候补实验立案。",
+  "narrative": "一日三线并进: ①位置论文 v2 重排(公式真排/去斜体/补CJK)上站 + v3(英文图+切片段); ②时间系列大扩——主观时间链(时间符号表征→时间路标→时间主观奠基→按表律→主观流逝率→事件密度谱→感知维数-流速)刻成十余碑; ③双身协作(信鸽匣/presence/信十·十一) + Letter 037 致山中 agent匣直发; ④插图三幅(多线切片/iPS拟态/Blender 3D概念图)+验证图三幅; ⑤时间之箭底本六种入库, Roberts↔时间系列碑对撞(候裁).",
   "decisions": [
-    "信鸽匣 chora/lola 立(契约五条, transport=clipboard, Raycast armed); ima 身登记 presence.machines; CHARTER=paidia/identity.md+psyche/IDENTITY.md(公开仓 multi-humans-agents-community)",
-    "位置论文 v2: pandoc→tectonic 重排(公式真排/去书斜体/补CJK字形), 缺字14→0, 29→11页, 源入 papers/expansive-interaction/",
-    "时间系列八碑入术语碑: 时间符号表征律/iPS拟态律/负熵分支律/负熵双路径律/路径诊断律/模拟退回律/黑天鹅边界律/恢复力律",
-    "另立三碑: 先验-后验袜对 · 时间路标律 · 小区律·多维组织; 兄弟角直减0.5°→9.1°",
-    "修订《冻结不可逆》(T0冻结→多线切片; 时间簿记员→路标半句)",
-    "P-B27《四/五/六年级阶梯×结构探针》候补立案(母案小区律); 语料勘探=9-12岁语料稀薄, 脑库齐"
+    "位置论文 v2: pandoc→tectonic 重排(公式真排/去书斜体/补CJK字形), 缺字14→0, 29→11页; v3 插英文图+切片段(§3.1)",
+    "主观时间链碑(承前): 时间符号表征律·时间路标律·时间主观奠基律·按表律(clk-resync)·主观流逝率律·事件密度谱律·感知维数-流速律(结构即寿)",
+    "iPS拟态图 + Letter 037 致山中伸弥(ips-contact@cira.kyoto-u.ac.jp, agent匣直发, 附iPS图, 主人在cc; 主人另投CiRA表单=双保险)",
+    "时间之箭底本六种入库(external检疫区); Roberts 2022↔时间系列碑对撞: Ch5/6「无热力学箭头」冲撞《时间路标律》(熵增=箭头)→候裁加注补T破缺",
+    "token口 SpaceBunny 分析类判死(暗吞推理→空正文); 审计改由对岸 ima 读成",
+    "P-B27《四/五/六年级阶梯×结构探针》候补立案; 术语定案: 客观流=熵增(客观熵流), 参数=物理时间(t)"
   ],
   "pending": [
-    "对话母本存档(主人'稍后保存对话再整理') + 锚点文 talk-with-agents 出版(候 HTML 模板)",
-    "P-B27 三事候裁(真语料采买/申请 · '射'字 · 案号候钦)",
-    "digest 模板定稿(对岸起本地落) + transport rpc 接 control room",
-    "科学锚(Eddington/霍金/山中/Daley)逐条核卷期 — 现皆 †禁裸引"
+    "时间路标律加注候裁(熵增存疑·补T破缺) + 立对照注「熵增vs T-破缺: 两证据层」",
+    "P-B27 三事候裁(真语料采买/申请·射字·案号) ; 对话母本存档候补录",
+    "Blender 大图(时间切片3D) 候沉淀; 时间链收束让沉淀",
+    "digest 模板定稿(对岸起本地落) + transport rpc 接 control room; 锚点文 talk-with-agents 出版(候HTML模板)",
+    "感知维数-流速等 经验对应 †候核禁裸引; 真信号实证另案"
   ],
-  "next": "候主人点路: 恢复力储备方法化 / 锚点出版 / 母本存档"
+  "next": "时间链沉淀(主人令收束); 候主人点路: 路标律加注 / P-B27 / Blender精修"
 }

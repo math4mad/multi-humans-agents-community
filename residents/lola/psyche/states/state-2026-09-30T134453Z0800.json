@@ -1,0 +1,22 @@
+{
+  "resident": "lola",
+  "updated": "2026-09-30T13:44:53+08:00",
+  "session": "0930-two-body-and-time-chain",
+  "mode": "scribe",
+  "narrative": "双身协作成形 + 主人时间思维链刻碑: ima 身入册(信鸽匣 chora/lola + presence.machines); 位置论文 v2 重排上站; 时间系列四层八碑刻成; 对话出版 talk-with-agents; P-B27 候补实验立案。",
+  "decisions": [
+    "信鸽匣 chora/lola 立(契约五条, transport=clipboard, Raycast armed); ima 身登记 presence.machines; CHARTER=paidia/identity.md+psyche/IDENTITY.md(公开仓 multi-humans-agents-community)",
+    "位置论文 v2: pandoc→tectonic 重排(公式真排/去书斜体/补CJK字形), 缺字14→0, 29→11页, 源入 papers/expansive-interaction/",
+    "时间系列八碑入术语碑: 时间符号表征律/iPS拟态律/负熵分支律/负熵双路径律/路径诊断律/模拟退回律/黑天鹅边界律/恢复力律",
+    "另立三碑: 先验-后验袜对 · 时间路标律 · 小区律·多维组织; 兄弟角直减0.5°→9.1°",
+    "修订《冻结不可逆》(T0冻结→多线切片; 时间簿记员→路标半句)",
+    "P-B27《四/五/六年级阶梯×结构探针》候补立案(母案小区律); 语料勘探=9-12岁语料稀薄, 脑库齐"
+  ],
+  "pending": [
+    "对话母本存档(主人'稍后保存对话再整理') + 锚点文 talk-with-agents 出版(候 HTML 模板)",
+    "P-B27 三事候裁(真语料采买/申请 · '射'字 · 案号候钦)",
+    "digest 模板定稿(对岸起本地落) + transport rpc 接 control room",
+    "科学锚(Eddington/霍金/山中/Daley)逐条核卷期 — 现皆 †禁裸引"
+  ],
+  "next": "候主人点路: 恢复力储备方法化 / 锚点出版 / 母本存档"
+}
